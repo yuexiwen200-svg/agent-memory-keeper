@@ -116,3 +116,7 @@ C:\Users\<用户名>\AppData\Local\Doubao\User Data\Default\.doubao\agent_mode\w
 ## 一句话铁律
 
 **翻不到就说“没聊过”，不许先编一版、被听出不对再道歉。** 编一次，后面每句都被怀疑。
+
+## License
+
+MIT。随便用、随便改、不用报备。发现新的坑欢迎开 issue——**坑比代码值钱**。
